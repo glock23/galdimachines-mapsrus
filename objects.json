@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Машина в Брянске",
+    "address": "Брянск",
+    "content": "Раз<br>Два<br>Три",
+    "color": "green"
+  },
+  {
+    "title": "Машина в Калуге",
+    "address": "Калуга",
+    "content": "Раз<br>Два<br>Три",
+    "color": "blue"
+  },
+  {
+    "title": "Машина во Владимире",
+    "address": "Владимир",
+    "content": "Раз<br>Два<br>Три",
+    "color": "red"
+  }
+]
