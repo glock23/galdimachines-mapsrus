@@ -3,7 +3,7 @@ ymaps.ready(init);
 function init () {
   var myMap = new ymaps.Map('map', {
     center: [55.76, 37.64],
-    zoom: 6
+    zoom: 5
   });
 
   $.getJSON('objects.json', function(json) {
